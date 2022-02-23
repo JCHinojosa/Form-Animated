@@ -9,3 +9,9 @@ for (var i = 0 ; i < inputs.length ; i++){
          }
     });
 }
+
+function goToIndex(){
+
+   return window.location.assign("index.php");
+
+};
